@@ -1,1 +1,2 @@
 Esto es la versoin española del readme
+con este comentario  añadido para pull desde Git bash
